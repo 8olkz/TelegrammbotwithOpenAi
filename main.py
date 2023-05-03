@@ -1,12 +1,9 @@
 import openai
 import aiogram
 import requests
-import tkinter as tk
 from aiogram import Bot,types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
-
-
 
 
 token = '6052676464:AAFnIMLiEEgBznRw5RN-x0qLFSYLOBDFQdQ'
