@@ -6,8 +6,8 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 
-token = '6052676464:AAFnIMLiEEgBznRw5RN-x0qLFSYLOBDFQdQ'
-openai.api_key = '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'
+token = 'YOUR TOKEN BOT'
+openai.api_key = 'OPENAI TOKEN'
 modelid ="CompVis/stable-diffusion-v1-4"
 
 bot1= Bot(token)
